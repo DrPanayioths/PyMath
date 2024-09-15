@@ -11,9 +11,9 @@ time.sleep(2)
 print("")
 
 # Difficutly Selector
-print("1 - Easy")
-print("2 - Medium")
-print("3 - Hard")
+print("1 - 🟢Beginner")
+print("2 - 🟡Intermediate")
+print("3 - 🔴Advanced")
 difficulty_selected = input("Select Difficulty: ")
 
 
